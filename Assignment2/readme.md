@@ -4,7 +4,6 @@
 Revisiting flutter development from scratch to advance in Mass IT training organized by Saylani.
 
 ## Questions
-Here are some common questions about the project:
 
 Q.1: Create a list of names and print all names using list.
 
