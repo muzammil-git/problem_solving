@@ -79,8 +79,3 @@ Q.21: Given a map representing a user with keys "name", "isAdmin", and "isActive
 
 Q.22: Given a map representing a shopping cart with keys as product names and values as quantities, write Dart code to check if a product named "Apple" exists in the cart. Print "Product found" if it exists, otherwise print "Product not found".
 
-12. **Question 12:** Write a program to convert Celsius  to Fahrenheit   .
-i.e: Temperature in degrees Fahrenheit (°F) = (Temperature in degrees Celsius (°C) * 9/5) + 32 
-
-
-
